@@ -1,0 +1,12 @@
+canvas {
+    border: #333 10px solid;
+    background:url(../img/back.jpg)
+  }
+
+  body {
+    padding: 50px;
+  }
+
+h1 {
+	font-family: 'Comfortaa', cursive;
+}
